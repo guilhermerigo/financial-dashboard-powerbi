@@ -1,5 +1,5 @@
 ***WEG (WEGE3) - Análise de Crédito e Stress Testing***
-Este projeto apresenta uma análise de crédito da WEG S.A. com base em dados financeiros públicos.
+Este projeto apresenta uma análise de crédito da WEG S.A. com base em dados financeiros públicos. Foram utilizados Balanço 4T2025, DRE e Fluxo de Caixa ano 2025 obtidos no RI da WEG.
 
 **Objetivo**
 Avaliar o risco de crédito da empresa e sua sensibilidade a cenários de stress. Este projeto foi desenvolvido como um aperfeiçoamento pessoal, 
