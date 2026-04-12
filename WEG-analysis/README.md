@@ -38,3 +38,6 @@ Ferramentas:
 
 Observação:
 O índice de inadimplência foi estimado utilizando provisão sobre contas a receber.
+
+
+Use esse link para entrar no Dashboard feito pelo Lovable (ainda em fase de testes): https://weg-guilherme-test.lovable.app
